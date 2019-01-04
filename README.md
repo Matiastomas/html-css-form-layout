@@ -1,6 +1,6 @@
 #**My first HTML/CSS login form based on facebook GUI**
 
-##**About this smmall project**
+##**About this small project**
 
 This is a simple static web/login form baesd on facebook login UI.
 
