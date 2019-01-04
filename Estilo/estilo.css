@@ -1,0 +1,154 @@
+﻿@charset "UTF-8";
+@font-face{
+	font-family:'fontelogo';
+	src: url("../_fonts/NewsCycle-Regular.ttf");
+	
+}
+
+*{margin:0;padding:0;}
+
+
+div#wrap{ 
+         width:100%;
+         height:auto;
+		 
+}
+header{ 
+        background-color:#070707;
+         height:90px;
+}
+header h1{
+         
+                    font-family:'fontelogo',sans-serif;
+                    font-size: 13pt;
+		            color: #ffffff;
+		            padding: 25px;
+		            float:left;
+					font-weight:normal;
+}
+
+header input[ type="text"]{
+                          text-align:center;
+						  width:200px;
+                           height: 29px;
+						   margin-right: 10px;
+						   
+}
+header  input[type="password"]{
+                            text-align:center;
+                           height: 29px;
+						     width:200px;
+}
+
+header  input[type="submit"]{
+                        height: 30px;
+						margin:0 0 0 10px;
+						width: 100px;
+						background-color:#1625e7;
+						border:0px;
+						color:#ffffff;
+		                font-family: 'fontelogo', sans-serif;
+						font-size:13pt;
+						border-radius: 3px 3px 3px 3px;
+}
+header  input[type="submit"]:hover{
+                             	background-color:#606060;
+
+								transition: 1s ;
+
+}
+section.form1{
+             display:inline;
+             float:right;
+			 margin: 25px 55px 0px 0px;
+}
+section.form2{
+           
+           position:relative;
+            height:403px;
+			background-color:#dddddd;
+		    width:100%;
+}
+
+section.form2 form{
+                 
+                  position:absolute;
+                 top:20px;
+				 left: 700px;
+}
+section.form2 img{
+                 position:absolute;
+				 top:80px;
+}
+section.form2 form h2,h3{
+                    font-family:'fontelogo',sans-serif;
+                    font-size:13pt;
+					font-weight:bold;
+					color:#1625e7;
+}
+
+section.form2 form h3{
+                    font-family:'fontelogo',sans-serif;
+                    font-size:13pt;
+					font-weight:bold;
+					color:#1625e7;
+					margin-bottom:8px;
+}
+
+section.form2 form p input[type="text"]{
+                         text-align:center;
+						  width:200px;
+                           height: 29px;
+						   margin-bottom: 8px;
+                     
+}
+
+section.form2 form p input[type="password"]{
+                         text-align:center;
+						  width:409px;
+                           height: 29px;
+						   margin-bottom: 8px;
+                     
+}
+section.form2 form p input.email{
+         text-align:center;
+						  width:409px;
+                           height: 29px;
+						   margin-bottom: 8px;
+
+}
+section.form2 form p input[type="radio"]{
+                                      margin-top:10px;
+}
+.btn-enviar {
+                              background-color:#1625e7;
+							   height: 30px;
+						       width: 100px;
+							   border:0px;
+						       color:#ffffff;
+		                         font-family: 'fontelogo', sans-serif;
+						         font-size:13pt;
+								 margin-top:10px;
+								 padding:0px;
+								 border-radius: 5px 5px 5px 5px;
+								 padding-top: -4px;
+
+
+}
+.btn-enviar:hover{
+                      background-color:#606060;
+					  transition: 1s ;
+
+}
+footer {
+       background-color:#070707;
+      height:100px;
+      width:100%;
+	  margin-bottom:-10;
+	  color:white;
+}
+footer p{
+        text-align:center;
+        padding :10px;
+		font-family: 'fontelogo',sans-serif;
+}
