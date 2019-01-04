@@ -1,3 +1,3 @@
 # my-first-html-css-layout-
 
-![user-interface-screenshot](https://github.com/Matiastomas/my-first-html-css-form-layout-/tree/master/my-first-html-css-form-layout-/Img/user-interface-screenshot.PNG)
+![user-interface-screenshot](https://user-images.githubusercontent.com/16385746/50683488-e5140780-101a-11e9-8450-3c6c61f1384c.PNG)
