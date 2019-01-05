@@ -13,7 +13,7 @@ At the time that I created this layout I was doing the 11th grade in technitian 
 
 ## **Tech used**  
 
-** Built with**
+**Built with**
     -HTML5/CSS3
 
                                                                                                                                          
